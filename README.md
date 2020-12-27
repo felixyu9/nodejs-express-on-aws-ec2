@@ -4,7 +4,7 @@ This repo hosts the source code for my YouTube tutorial on CI/CD from Github to 
 
 ===========================
 
-EC2 script on creation:
+EC2 script on creation to install the CodeDeploy Agent:
 
 ```
 #!/bin/bash
